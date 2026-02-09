@@ -1,6 +1,6 @@
 ## ams_version=1.0
 
-Model Main_SetsForConfiguration {
+Model Main_Sets_for_Configuration {
 	Set s_config {
 		Index: i_config;
 		Definition: {

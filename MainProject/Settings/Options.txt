@@ -1,4 +1,11 @@
+﻿* AIMMS
+Case_compatibility Aimms_4_80
 rounding_compatibility Aimms_3_7
 use_UTC_forCaseAndStartEndDate 1
-case_compatibility Aimms_4_80
+* CBC 2.9
+* CPLEX 22.1
+* IPOPT 3.11
+* NETSOL
+* Environment
+Project_Title "694-sets-for-configuration"
 Default_UI 0
